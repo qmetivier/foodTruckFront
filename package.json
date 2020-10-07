@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "jest-websocket-mock": "^2.2.0",
+    "mock-socket": "^9.0.3",
+    "react-testing-library": "^8.0.1",
+    "the": "^1.0.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
